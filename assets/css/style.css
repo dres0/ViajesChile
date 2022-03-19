@@ -1,0 +1,38 @@
+.viajes{
+    width: 5%;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    color: white;
+}
+h4{
+    font-weight: 500;
+}
+html {
+    scroll-behavior: smooth;
+  }
+.navbar{
+    background: transparent;
+}
+.imgheader{
+    width: 10%;
+}
+section{
+    margin: 0;
+}
+.card-img-top{
+    height: 30%;
+}
+.fa-solid{
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
+.fa-brands{
+    color: white;
+    font-size: 1.5rem;
+    margin: 0 auto
+}
